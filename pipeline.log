@@ -1,0 +1,214 @@
+2026-03-22 16:20:41,641 - INFO - Connected to DuckDB successfully
+2026-03-22 16:20:41,642 - INFO - Loading data/name.basics.tsv.gz...
+2026-03-22 16:21:34,238 - INFO - Connected to DuckDB successfully
+2026-03-22 16:21:34,239 - INFO - Loading data/name.basics.tsv.gz...
+2026-03-22 16:22:08,383 - INFO - Loaded name_basics successfully — 15182692 rows
+2026-03-22 16:22:08,383 - INFO - Loading data/title.basics.tsv.gz...
+2026-03-22 16:22:42,786 - INFO - Loaded title_basics successfully — 12376284 rows
+2026-03-22 16:22:42,787 - INFO - Loading data/title.crew.tsv.gz...
+2026-03-22 16:22:55,299 - INFO - Loaded title_crew successfully — 12380743 rows
+2026-03-22 16:22:55,300 - INFO - Loading data/title.principals.tsv.gz...
+2026-03-22 16:27:56,103 - INFO - Loaded title_principals successfully — 98523875 rows
+2026-03-22 16:27:56,104 - INFO - Loading data/title.ratings.tsv.gz...
+2026-03-22 16:28:00,312 - INFO - Loaded title_ratings successfully — 1650900 rows
+2026-03-22 16:28:01,326 - INFO - Created movies table — 741038 rows
+2026-03-22 16:28:09,044 - INFO - Connected to DuckDB for TMDB data load
+2026-03-22 16:28:09,089 - INFO - Fetching TMDB data for 741038 movies
+2026-03-22 16:28:50,931 - INFO - Fetched 300 / 741038 movies
+2026-03-22 16:29:04,800 - INFO - Fetched 400 / 741038 movies
+2026-03-22 16:29:16,875 - INFO - Fetched 500 / 741038 movies
+2026-03-22 16:30:42,740 - INFO - Connected to DuckDB for TMDB data load
+2026-03-22 16:30:42,762 - INFO - Fetching TMDB data for 48049 movies
+2026-03-22 16:31:03,726 - INFO - Fetched 100 / 48049 movies
+2026-03-22 16:31:22,340 - INFO - Fetched 200 / 48049 movies
+2026-03-22 16:31:36,569 - INFO - Connected to DuckDB for TMDB data load
+2026-03-22 16:31:36,581 - INFO - Fetching TMDB data for 18681 movies
+2026-03-22 16:32:01,908 - INFO - Fetched 100 / 18681 movies
+2026-03-22 16:32:23,020 - INFO - Fetched 200 / 18681 movies
+2026-03-22 16:32:42,032 - INFO - Fetched 300 / 18681 movies
+2026-03-22 16:33:00,881 - INFO - Fetched 400 / 18681 movies
+2026-03-22 16:33:19,232 - INFO - Fetched 500 / 18681 movies
+2026-03-22 16:33:37,908 - INFO - Fetched 600 / 18681 movies
+2026-03-22 16:33:56,707 - INFO - Fetched 700 / 18681 movies
+2026-03-22 16:34:14,635 - INFO - Fetched 800 / 18681 movies
+2026-03-22 16:34:32,403 - INFO - Fetched 900 / 18681 movies
+2026-03-22 16:34:54,963 - INFO - Fetched 1000 / 18681 movies
+2026-03-22 16:35:15,120 - INFO - Fetched 1100 / 18681 movies
+2026-03-22 16:35:33,618 - INFO - Fetched 1200 / 18681 movies
+2026-03-22 16:35:52,317 - INFO - Fetched 1300 / 18681 movies
+2026-03-22 16:36:10,987 - INFO - Fetched 1400 / 18681 movies
+2026-03-22 16:36:28,749 - INFO - Fetched 1500 / 18681 movies
+2026-03-22 16:36:47,935 - INFO - Fetched 1600 / 18681 movies
+2026-03-22 16:37:07,479 - INFO - Fetched 1700 / 18681 movies
+2026-03-22 16:37:26,891 - INFO - Fetched 1800 / 18681 movies
+2026-03-22 16:37:47,050 - INFO - Fetched 1900 / 18681 movies
+2026-03-22 16:38:07,474 - INFO - Fetched 2000 / 18681 movies
+2026-03-22 16:38:27,611 - INFO - Fetched 2100 / 18681 movies
+2026-03-22 16:38:45,966 - INFO - Fetched 2200 / 18681 movies
+2026-03-22 16:39:05,443 - INFO - Fetched 2300 / 18681 movies
+2026-03-22 16:39:24,670 - INFO - Fetched 2400 / 18681 movies
+2026-03-22 16:39:45,282 - INFO - Fetched 2500 / 18681 movies
+2026-03-22 16:40:06,867 - INFO - Fetched 2600 / 18681 movies
+2026-03-22 16:40:27,696 - INFO - Fetched 2700 / 18681 movies
+2026-03-22 16:40:48,193 - INFO - Fetched 2800 / 18681 movies
+2026-03-22 16:41:08,016 - INFO - Fetched 2900 / 18681 movies
+2026-03-22 16:41:27,603 - INFO - Fetched 3000 / 18681 movies
+2026-03-22 16:41:47,879 - INFO - Fetched 3100 / 18681 movies
+2026-03-22 16:42:07,427 - INFO - Fetched 3200 / 18681 movies
+2026-03-22 16:42:27,461 - INFO - Fetched 3300 / 18681 movies
+2026-03-22 16:42:47,400 - INFO - Fetched 3400 / 18681 movies
+2026-03-22 16:43:07,463 - INFO - Fetched 3500 / 18681 movies
+2026-03-22 16:43:26,429 - INFO - Fetched 3600 / 18681 movies
+2026-03-22 16:43:46,163 - INFO - Fetched 3700 / 18681 movies
+2026-03-22 16:44:06,197 - INFO - Fetched 3800 / 18681 movies
+2026-03-22 16:44:24,670 - INFO - Fetched 3900 / 18681 movies
+2026-03-22 16:44:44,481 - INFO - Fetched 4000 / 18681 movies
+2026-03-22 16:45:03,547 - INFO - Fetched 4100 / 18681 movies
+2026-03-22 16:45:23,677 - INFO - Fetched 4200 / 18681 movies
+2026-03-22 16:45:43,331 - INFO - Fetched 4300 / 18681 movies
+2026-03-22 16:46:03,772 - INFO - Fetched 4400 / 18681 movies
+2026-03-22 16:46:23,102 - INFO - Fetched 4500 / 18681 movies
+2026-03-22 16:46:42,505 - INFO - Fetched 4600 / 18681 movies
+2026-03-22 16:47:02,052 - INFO - Fetched 4700 / 18681 movies
+2026-03-22 16:47:21,555 - INFO - Fetched 4800 / 18681 movies
+2026-03-22 16:47:40,886 - INFO - Fetched 4900 / 18681 movies
+2026-03-22 16:48:00,516 - INFO - Fetched 5000 / 18681 movies
+2026-03-22 16:48:20,347 - INFO - Fetched 5100 / 18681 movies
+2026-03-22 16:48:39,417 - INFO - Fetched 5200 / 18681 movies
+2026-03-22 16:48:58,452 - INFO - Fetched 5300 / 18681 movies
+2026-03-22 16:49:17,791 - INFO - Fetched 5400 / 18681 movies
+2026-03-22 16:49:37,683 - INFO - Fetched 5500 / 18681 movies
+2026-03-22 16:49:56,757 - INFO - Fetched 5600 / 18681 movies
+2026-03-22 16:50:18,682 - INFO - Fetched 5700 / 18681 movies
+2026-03-22 16:50:38,165 - INFO - Fetched 5800 / 18681 movies
+2026-03-22 16:50:58,093 - INFO - Fetched 5900 / 18681 movies
+2026-03-22 16:51:17,912 - INFO - Fetched 6000 / 18681 movies
+2026-03-22 16:51:37,191 - INFO - Fetched 6100 / 18681 movies
+2026-03-22 16:51:56,544 - INFO - Fetched 6200 / 18681 movies
+2026-03-22 16:52:15,716 - INFO - Fetched 6300 / 18681 movies
+2026-03-22 16:52:34,912 - INFO - Fetched 6400 / 18681 movies
+2026-03-22 16:52:53,334 - INFO - Fetched 6500 / 18681 movies
+2026-03-22 16:53:12,231 - INFO - Fetched 6600 / 18681 movies
+2026-03-22 16:53:31,114 - INFO - Fetched 6700 / 18681 movies
+2026-03-22 16:53:50,407 - INFO - Fetched 6800 / 18681 movies
+2026-03-22 16:54:09,405 - INFO - Fetched 6900 / 18681 movies
+2026-03-22 16:54:28,491 - INFO - Fetched 7000 / 18681 movies
+2026-03-22 16:54:47,635 - INFO - Fetched 7100 / 18681 movies
+2026-03-22 16:55:06,508 - INFO - Fetched 7200 / 18681 movies
+2026-03-22 16:55:25,650 - INFO - Fetched 7300 / 18681 movies
+2026-03-22 16:55:44,153 - INFO - Fetched 7400 / 18681 movies
+2026-03-22 16:56:02,171 - INFO - Fetched 7500 / 18681 movies
+2026-03-22 16:56:20,742 - INFO - Fetched 7600 / 18681 movies
+2026-03-22 16:56:40,667 - INFO - Fetched 7700 / 18681 movies
+2026-03-22 16:56:59,091 - INFO - Fetched 7800 / 18681 movies
+2026-03-22 16:57:17,054 - INFO - Fetched 7900 / 18681 movies
+2026-03-22 16:57:36,475 - INFO - Fetched 8000 / 18681 movies
+2026-03-22 16:57:55,294 - INFO - Fetched 8100 / 18681 movies
+2026-03-22 16:58:14,601 - INFO - Fetched 8200 / 18681 movies
+2026-03-22 16:58:33,482 - INFO - Fetched 8300 / 18681 movies
+2026-03-22 16:58:52,499 - INFO - Fetched 8400 / 18681 movies
+2026-03-22 16:59:11,664 - INFO - Fetched 8500 / 18681 movies
+2026-03-22 16:59:30,253 - INFO - Fetched 8600 / 18681 movies
+2026-03-22 16:59:48,658 - INFO - Fetched 8700 / 18681 movies
+2026-03-22 17:00:07,038 - INFO - Fetched 8800 / 18681 movies
+2026-03-22 17:00:25,455 - INFO - Fetched 8900 / 18681 movies
+2026-03-22 17:00:43,020 - INFO - Fetched 9000 / 18681 movies
+2026-03-22 17:01:01,477 - INFO - Fetched 9100 / 18681 movies
+2026-03-22 17:01:19,658 - INFO - Fetched 9200 / 18681 movies
+2026-03-22 17:01:38,031 - INFO - Fetched 9300 / 18681 movies
+2026-03-22 17:01:56,886 - INFO - Fetched 9400 / 18681 movies
+2026-03-22 17:02:16,366 - INFO - Fetched 9500 / 18681 movies
+2026-03-22 17:02:34,713 - INFO - Fetched 9600 / 18681 movies
+2026-03-22 17:02:52,876 - INFO - Fetched 9700 / 18681 movies
+2026-03-22 17:03:10,892 - INFO - Fetched 9800 / 18681 movies
+2026-03-22 17:03:28,952 - INFO - Fetched 9900 / 18681 movies
+2026-03-22 17:03:47,508 - INFO - Fetched 10000 / 18681 movies
+2026-03-22 17:04:06,043 - INFO - Fetched 10100 / 18681 movies
+2026-03-22 17:04:24,421 - INFO - Fetched 10200 / 18681 movies
+2026-03-22 17:04:42,900 - INFO - Fetched 10300 / 18681 movies
+2026-03-22 17:05:02,376 - INFO - Fetched 10400 / 18681 movies
+2026-03-22 17:05:21,507 - INFO - Fetched 10500 / 18681 movies
+2026-03-22 17:05:40,077 - INFO - Fetched 10600 / 18681 movies
+2026-03-22 17:05:58,168 - INFO - Fetched 10700 / 18681 movies
+2026-03-22 17:06:16,304 - INFO - Fetched 10800 / 18681 movies
+2026-03-22 17:06:34,971 - INFO - Fetched 10900 / 18681 movies
+2026-03-22 17:06:53,472 - INFO - Fetched 11000 / 18681 movies
+2026-03-22 17:07:11,866 - INFO - Fetched 11100 / 18681 movies
+2026-03-22 17:07:29,959 - INFO - Fetched 11200 / 18681 movies
+2026-03-22 17:07:48,316 - INFO - Fetched 11300 / 18681 movies
+2026-03-22 17:08:07,131 - INFO - Fetched 11400 / 18681 movies
+2026-03-22 17:08:24,950 - INFO - Fetched 11500 / 18681 movies
+2026-03-22 17:08:43,088 - INFO - Fetched 11600 / 18681 movies
+2026-03-22 17:09:00,920 - INFO - Fetched 11700 / 18681 movies
+2026-03-22 17:09:19,161 - INFO - Fetched 11800 / 18681 movies
+2026-03-22 17:09:37,749 - INFO - Fetched 11900 / 18681 movies
+2026-03-22 17:09:55,820 - INFO - Fetched 12000 / 18681 movies
+2026-03-22 17:10:14,033 - INFO - Fetched 12100 / 18681 movies
+2026-03-22 17:10:32,925 - INFO - Fetched 12200 / 18681 movies
+2026-03-22 17:10:51,191 - INFO - Fetched 12300 / 18681 movies
+2026-03-22 17:11:10,289 - INFO - Fetched 12400 / 18681 movies
+2026-03-22 17:11:28,066 - INFO - Fetched 12500 / 18681 movies
+2026-03-22 17:11:46,605 - INFO - Fetched 12600 / 18681 movies
+2026-03-22 17:12:05,542 - INFO - Fetched 12700 / 18681 movies
+2026-03-22 17:12:24,751 - INFO - Fetched 12800 / 18681 movies
+2026-03-22 17:12:43,325 - INFO - Fetched 12900 / 18681 movies
+2026-03-22 17:13:01,985 - INFO - Fetched 13000 / 18681 movies
+2026-03-22 17:13:20,877 - INFO - Fetched 13100 / 18681 movies
+2026-03-22 17:13:39,202 - INFO - Fetched 13200 / 18681 movies
+2026-03-22 17:13:57,961 - INFO - Fetched 13300 / 18681 movies
+2026-03-22 17:14:16,329 - INFO - Fetched 13400 / 18681 movies
+2026-03-22 17:14:34,427 - INFO - Fetched 13500 / 18681 movies
+2026-03-22 17:14:52,523 - INFO - Fetched 13600 / 18681 movies
+2026-03-22 17:15:10,887 - INFO - Fetched 13700 / 18681 movies
+2026-03-22 17:15:29,604 - INFO - Fetched 13800 / 18681 movies
+2026-03-22 17:15:48,348 - INFO - Fetched 13900 / 18681 movies
+2026-03-22 17:16:08,043 - INFO - Fetched 14000 / 18681 movies
+2026-03-22 17:16:26,699 - INFO - Fetched 14100 / 18681 movies
+2026-03-22 17:16:46,060 - INFO - Fetched 14200 / 18681 movies
+2026-03-22 17:17:05,662 - INFO - Fetched 14300 / 18681 movies
+2026-03-22 17:17:24,411 - INFO - Fetched 14400 / 18681 movies
+2026-03-22 17:17:42,274 - INFO - Fetched 14500 / 18681 movies
+2026-03-22 17:18:01,029 - INFO - Fetched 14600 / 18681 movies
+2026-03-22 17:18:19,922 - INFO - Fetched 14700 / 18681 movies
+2026-03-22 17:18:38,595 - INFO - Fetched 14800 / 18681 movies
+2026-03-22 17:18:57,413 - INFO - Fetched 14900 / 18681 movies
+2026-03-22 17:19:16,243 - INFO - Fetched 15000 / 18681 movies
+2026-03-22 17:19:36,706 - INFO - Fetched 15100 / 18681 movies
+2026-03-22 17:19:56,182 - INFO - Fetched 15200 / 18681 movies
+2026-03-22 17:20:14,364 - INFO - Fetched 15300 / 18681 movies
+2026-03-22 17:20:33,280 - INFO - Fetched 15400 / 18681 movies
+2026-03-22 17:20:52,716 - INFO - Fetched 15500 / 18681 movies
+2026-03-22 17:21:10,948 - INFO - Fetched 15600 / 18681 movies
+2026-03-22 17:21:30,205 - INFO - Fetched 15700 / 18681 movies
+2026-03-22 17:21:49,347 - INFO - Fetched 15800 / 18681 movies
+2026-03-22 17:22:08,694 - INFO - Fetched 15900 / 18681 movies
+2026-03-22 17:22:27,916 - INFO - Fetched 16000 / 18681 movies
+2026-03-22 17:22:46,433 - INFO - Fetched 16100 / 18681 movies
+2026-03-22 17:23:08,705 - INFO - Fetched 16200 / 18681 movies
+2026-03-22 17:23:27,635 - INFO - Fetched 16300 / 18681 movies
+2026-03-22 17:23:46,355 - INFO - Fetched 16400 / 18681 movies
+2026-03-22 17:25:22,119 - INFO - Fetched 16500 / 18681 movies
+2026-03-22 17:25:40,081 - INFO - Fetched 16600 / 18681 movies
+2026-03-22 17:25:58,321 - INFO - Fetched 16700 / 18681 movies
+2026-03-22 17:26:16,773 - INFO - Fetched 16800 / 18681 movies
+2026-03-22 17:26:34,702 - INFO - Fetched 16900 / 18681 movies
+2026-03-22 17:26:53,127 - INFO - Fetched 17000 / 18681 movies
+2026-03-22 17:27:11,773 - INFO - Fetched 17100 / 18681 movies
+2026-03-22 17:27:29,995 - INFO - Fetched 17200 / 18681 movies
+2026-03-22 17:27:48,382 - INFO - Fetched 17300 / 18681 movies
+2026-03-22 17:28:06,692 - INFO - Fetched 17400 / 18681 movies
+2026-03-22 17:28:26,460 - INFO - Fetched 17500 / 18681 movies
+2026-03-22 17:28:44,797 - INFO - Fetched 17600 / 18681 movies
+2026-03-22 17:29:02,816 - INFO - Fetched 17700 / 18681 movies
+2026-03-22 17:29:21,183 - INFO - Fetched 17800 / 18681 movies
+2026-03-22 17:29:39,513 - INFO - Fetched 17900 / 18681 movies
+2026-03-22 17:29:57,705 - INFO - Fetched 18000 / 18681 movies
+2026-03-22 17:30:18,999 - INFO - Fetched 18100 / 18681 movies
+2026-03-22 17:30:37,207 - INFO - Fetched 18200 / 18681 movies
+2026-03-22 17:30:55,419 - INFO - Fetched 18300 / 18681 movies
+2026-03-22 17:31:13,497 - INFO - Fetched 18400 / 18681 movies
+2026-03-22 17:31:31,339 - INFO - Fetched 18500 / 18681 movies
+2026-03-22 17:31:49,473 - INFO - Fetched 18600 / 18681 movies
+2026-03-22 17:32:04,648 - INFO - TMDB fetch complete — 11552 movies with revenue data
+2026-03-22 17:32:04,688 - INFO - tmdb_movies table created in DuckDB
+2026-03-22 17:32:41,305 - INFO - Connected to DuckDB for TMDB data load
