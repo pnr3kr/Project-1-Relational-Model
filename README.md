@@ -19,7 +19,7 @@ This repository contains a fully constructed secondary dataset built using the r
 - **Initial General Problem**
 Predicting box office revenue is a persistent challenge in the film industry, as studios must make large financial commitments before knowing how a film will perform commercially.
 - **Specific Problem**
-Using IMDb metadata joined with TMDB financial data for 11,552 films, this project tries to build a regressionmodel to predict box office revenue and determine which measurable film characteristics (production budget, genre, IMDb rating, runtime, release year, and language) are the strongest predictors.
+Using IMDb metadata joined with TMDB financial data for 11,552 films, this project tries to build a regression model to predict box office revenue and determine which measurable film characteristics (production budget, genre, IMDb rating, runtime, release year, and language) are the strongest predictors.
 
 ### Rationale
  
