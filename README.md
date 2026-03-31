@@ -98,7 +98,7 @@ The third key decision was to supplement the IMDb dataset with revenue data from
  
 ### Schema
  
-![ER Diagram](Movie_ERD.jpg)
+![ER Diagram](figures/Movie_ERD.jpg)
  
 ### Data Tables
  
