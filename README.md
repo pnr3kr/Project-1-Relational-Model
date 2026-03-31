@@ -6,7 +6,7 @@ This repository contains a fully constructed secondary dataset built using the r
 |------|-------|
 | Name | Tristen Davin |
 | NetID | pnr3kr |
-| DOI | [your DOI link] |
+| DOI | [Link](https://doi.org/10.5281/zenodo.19356344) |
 | Press Release | [New Data Analysis Reveals Which Movie Factors Are Most Strongly Linked to Box Office Success](press_release.md) |
 | Data | [OneDrive Data Folder](https://myuva-my.sharepoint.com/:f:/g/personal/pnr3kr_virginia_edu/IgA_PYOb3HwCSpMPPwYHIHUQAUpFBBSGWIdr5p6QeB8HQS0?e=QVPMGc) |
 | Pipeline | [pipeline.ipynb](pipeline.ipynb) |
