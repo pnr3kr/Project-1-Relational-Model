@@ -30,9 +30,9 @@ The general problem was refined in three specific ways. First, the data source w
 ### Motivation
  
 The film industry represents one of the highest-risk creative businesses, where studios regularly commit hundreds of millions of dollars to productions whose commercial outcome is uncertain until opening weekend. Despite this, investment decisions are often driven by intuition, precedent, or franchise familiarity rather than data. This project is motivated by the question of whether measurable film characteristics available before release such as budget, genre, and runtime can meaningfully predict box office revenue. If a regression model trained on historical IMDb and TMDB data can identify which features carry the most predictive weight, the findings could help producers, studios, and analysts make more data-informed decisions about which projects to greenlight and how to allocate resources.
- 
-### Press Release Headline and Link
- 
+
+### Press Release
+
 [Budget Dominates the Box Office: New Data Analysis Reveals Which Movie Factors Are Most Strongly Linked to Box Office Success](press_release.md)
  
 ---
