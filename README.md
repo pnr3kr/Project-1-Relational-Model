@@ -12,6 +12,8 @@ This repository contains a fully constructed secondary dataset built using the r
 | Pipeline | [pipeline.ipynb](pipeline.ipynb) |
 | License | [MIT](LICENSE) |
 
+---
+
 ## Problem Definition
 
 ### General and Specific Problem
