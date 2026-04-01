@@ -54,7 +54,7 @@ The film industry represents one of the highest-risk creative businesses, where 
  
 This project exists within the domain of the film industry and entertainment data analysis. The movie industry generates large amounts of data related to film production, audience reception, and financial performance. Factors such as genre, ratings, runtime, and release timing are studied to better understand what contributes to a movie’s success at the box office. By analyzing these variables, researchers and studios can gain insights into patterns that influence audience behavior and movie earnings. The IMDb dataset provides a large collection of movie information that can be used to explore how different film characteristics relate to financial success.
 
-###[Background Reading](background/)
+### [Background Reading](background/)
  
 ### Background Summary
  
