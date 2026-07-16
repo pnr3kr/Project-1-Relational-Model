@@ -1,4 +1,4 @@
-# DS 4320 Project 1: Predicting Box Office Revenue
+# Predicting Box Office Revenue
 
 This repository contains a fully constructed secondary dataset built using the relational model, combining IMDb metadata and TMDB financial data for 11,552 films. The dataset is used to train and evaluate regression models that identify which measurable film characteristics (production budget, genre, IMDb rating, runtime, release year, etc...) are the strongest predictors of worldwide box office revenue. The pipeline includes data acquisition, DuckDB-based relational storage, feature engineering, cross-validated model comparison, and publication-quality visualizations of results.
 
